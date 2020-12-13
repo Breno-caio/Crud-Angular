@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.98
+    },
+    {
+      "id": 2,
+      "name": "Notbook Mac Pro",
+      "price": "4500"
+    },
+    {
+      "id": 3,
+      "name": "Sansung S Pro",
+      "price": "2400"
+    },
+    {
+      "name": "Lapis",
+      "price": "1.0",
+      "id": 4
+    },
+    {
+      "name": "Borracha",
+      "price": "2.20",
+      "id": 5
+    },
+    {
+      "name": "canet azul",
+      "price": "1.0",
+      "id": 7
+    }
+  ]
+}
